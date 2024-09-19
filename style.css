@@ -1,0 +1,18 @@
+.jumbotron {
+  /* padding: 2rem 1rem;   > 2rem utk atas bawah, 1rem utk kiri kanan */
+  padding-top: 7rem;
+  background-color: #e2edff;
+}
+
+#about {
+  padding-top: 4rem;
+  /* min-height: 400px; */
+}
+
+#projects {
+  background-color: #e2edff;
+}
+
+section {
+  padding-top: 5rem;
+}
